@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.container{
+    border: 5px solid rgba(155, 113, 7, 0.546);
+    padding: 70px;
+    background-color: aqua;
+}
+
+h2{
+    color: red;
+}
+
+#title{
+    color: blue;
+}
+
